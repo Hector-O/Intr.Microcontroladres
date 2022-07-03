@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\practica2\pract2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\practica2\pract2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\practica2\pract2\Debug\pract2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>pract2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>pract2.map</FILE>
+  <FILE>pract2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Micros\practica2\pract2\main.asm</FILE><LINE>20</LINE></reset>
+  <timer0_ovf><FILE>D:\Proyec\Micros\practica2\pract2\main.asm</FILE><LINE>100</LINE></timer0_ovf>
+  <main><FILE>D:\Proyec\Micros\practica2\pract2\main.asm</FILE><LINE>94</LINE></main>
+  <apaga><FILE>D:\Proyec\Micros\practica2\pract2\main.asm</FILE><LINE>105</LINE></apaga>
+  <prende><FILE>D:\Proyec\Micros\practica2\pract2\main.asm</FILE><LINE>162</LINE></prende>
+ </LABELS>
+</ASSEMBLER_INFO>

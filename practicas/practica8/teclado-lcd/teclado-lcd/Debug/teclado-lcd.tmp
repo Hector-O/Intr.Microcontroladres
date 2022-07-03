@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\Debug\teclado-lcd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>teclado-lcd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>teclado-lcd.map</FILE>
+  <FILE>teclado-lcd.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>26</LINE></reset>
+  <recibe><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>104</LINE></recibe>
+  <delay_100ms><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>167</LINE></delay_100ms>
+  <delay_10ms><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>185</LINE></delay_10ms>
+  <main><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>101</LINE></main>
+  <salta_linea><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>138</LINE></salta_linea>
+  <limpia_lcd><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>151</LINE></limpia_lcd>
+  <l_3><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>110</LINE></l_3>
+  <lazo3><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>168</LINE></lazo3>
+  <lazo2><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>169</LINE></lazo2>
+  <lazo1><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>170</LINE></lazo1>
+  <lazo5><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>186</LINE></lazo5>
+  <lazo4><FILE>D:\Proyec\Micros\practicas\practica8\teclado-lcd\teclado-lcd\main.asm</FILE><LINE>187</LINE></lazo4>
+ </LABELS>
+</ASSEMBLER_INFO>

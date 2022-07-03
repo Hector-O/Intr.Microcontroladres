@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\Debug\lcd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lcd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lcd.map</FILE>
+  <FILE>lcd.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <delay_100ms><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>145</LINE></delay_100ms>
+  <delay_10ms><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>163</LINE></delay_10ms>
+  <aqui><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>142</LINE></aqui>
+  <lazo3><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>146</LINE></lazo3>
+  <lazo2><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>147</LINE></lazo2>
+  <lazo1><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>148</LINE></lazo1>
+  <lazo5><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>164</LINE></lazo5>
+  <lazo4><FILE>D:\Proyec\Micros\Clase 02-05-22\lcd\lcd\main.asm</FILE><LINE>165</LINE></lazo4>
+ </LABELS>
+</ASSEMBLER_INFO>

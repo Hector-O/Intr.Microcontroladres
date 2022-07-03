@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\Debug\int0_lampara.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>int0_lampara.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>int0_lampara.map</FILE>
+  <FILE>int0_lampara.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>17</LINE></reset>
+  <int_0><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>40</LINE></int_0>
+  <main><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>36</LINE></main>
+  <delay_5s><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>65</LINE></delay_5s>
+  <delay_30ms><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>50</LINE></delay_30ms>
+  <lazo2><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>51</LINE></lazo2>
+  <lazo1><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>52</LINE></lazo1>
+  <lazo5><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>66</LINE></lazo5>
+  <lazo4><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>67</LINE></lazo4>
+  <lazo3><FILE>D:\Proyec\Micros\Clase 28-02-22\int0_lampara\int0_lampara\main.asm</FILE><LINE>68</LINE></lazo3>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\Debug\teclado-pc-(usart)-LCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>teclado-pc-(usart)-LCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>teclado-pc-(usart)-LCD.map</FILE>
+  <FILE>teclado-pc-(usart)-LCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>26</LINE></reset>
+  <recibe><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>218</LINE></recibe>
+  <delay_100ms><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>290</LINE></delay_100ms>
+  <delay_10ms><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>302</LINE></delay_10ms>
+  <inicio><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>101</LINE></inicio>
+  <filas><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>114</LINE></filas>
+  <fila0><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>126</LINE></fila0>
+  <fila4><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>128</LINE></fila4>
+  <fila8><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>130</LINE></fila8>
+  <filaC><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>132</LINE></filaC>
+  <columnas><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>135</LINE></columnas>
+  <salto><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>151</LINE></salto>
+  <columna0><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>163</LINE></columna0>
+  <columna1><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>166</LINE></columna1>
+  <columna2><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>169</LINE></columna2>
+  <columna3><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>172</LINE></columna3>
+  <in_teclado><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>179</LINE></in_teclado>
+  <cambia_modo><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>208</LINE></cambia_modo>
+  <modo_2><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>201</LINE></modo_2>
+  <modo_1><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>194</LINE></modo_1>
+  <modo_0><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>187</LINE></modo_0>
+  <lcd><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>222</LINE></lcd>
+  <delay_200ms><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>285</LINE></delay_200ms>
+  <reinicia_modo><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>213</LINE></reinicia_modo>
+  <salta_linea><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>257</LINE></salta_linea>
+  <limpia_lcd><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>270</LINE></limpia_lcd>
+  <l_3><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>255</LINE></l_3>
+  <lazo2><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>303</LINE></lazo2>
+  <lazo1><FILE>D:\Proyec\Micros\practicas\practica9\teclado-pc-(usart)-LCD\teclado-pc-(usart)-LCD\main.asm</FILE><LINE>304</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>

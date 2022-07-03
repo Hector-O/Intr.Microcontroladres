@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\Debug\timer0_normal.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>timer0_normal.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>timer0_normal.map</FILE>
+  <FILE>timer0_normal.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\main.asm</FILE><LINE>18</LINE></reset>
+  <timer0_ovf><FILE>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\main.asm</FILE><LINE>34</LINE></timer0_ovf>
+  <main><FILE>D:\Proyec\Micros\Clase 8\timer0_normal\timer0_normal\main.asm</FILE><LINE>29</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\Debug\led_pwm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>led_pwm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>led_pwm.map</FILE>
+  <FILE>led_pwm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</FILE><LINE>35</LINE></main>
+  <delay_100ms><FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</FILE><LINE>44</LINE></delay_100ms>
+  <lazo3><FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</FILE><LINE>45</LINE></lazo3>
+  <lazo2><FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</FILE><LINE>46</LINE></lazo2>
+  <lazo1><FILE>D:\Proyec\Micros\Clase 23-02-22\led_pwm\led_pwm\main.asm</FILE><LINE>47</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>
