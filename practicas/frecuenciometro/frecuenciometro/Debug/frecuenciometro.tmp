@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\Debug\frecuenciometro.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>frecuenciometro.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>frecuenciometro.map</FILE>
+  <FILE>frecuenciometro.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>29</LINE></reset>
+  <int_0><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>106</LINE></int_0>
+  <tmr1_compA><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>129</LINE></tmr1_compA>
+  <tmr0_ovf><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>139</LINE></tmr0_ovf>
+  <constantes_display><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>71</LINE></constantes_display>
+  <main><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>101</LINE></main>
+  <error><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>123</LINE></error>
+  <inc_decenas><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>113</LINE></inc_decenas>
+  <inc_centenas><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>118</LINE></inc_centenas>
+  <muestra_unidades><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>147</LINE></muestra_unidades>
+  <muestra_decenas><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>154</LINE></muestra_decenas>
+  <muestra_centenas><FILE>C:\Users\hecth\Desktop\frecuenciometro\frecuenciometro\main.asm</FILE><LINE>161</LINE></muestra_centenas>
+ </LABELS>
+</ASSEMBLER_INFO>
